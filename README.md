@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm a student of FAMCS BSU. Now I try to combine university education with self-study in the machine learning sphere.
+Hello there! 👋 I'm Nikita Kiselev.<br>
+Currently, I'm delving into the world of machine learning, actively exploring advanced algorithms through online courses. I'm also fascinated by the idea of automating processes and improving life through artificial intelligence. Furthermore, while staying abreast of technological advancements and striving to keep pace with the ever-evolving world of innovation, I actively participate in university life, take pleasure in trying out different sports, and am always open to new opportunities.
 ## My skills:
 <pre>
 ✦ Python
