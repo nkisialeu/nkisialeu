@@ -26,7 +26,7 @@ Hi, I'm a student of FAMCS BSU. Now I try to combine university education with s
 ## 🌐 Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mikita-kiselev/) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/mikitakiselev)
-
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:nikitakiselev557@gmail.com)
 
 ## 💼 Core Specializations
 - Data Preprocessing and Transformation
@@ -60,7 +60,4 @@ Hi, I'm a student of FAMCS BSU. Now I try to combine university education with s
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📸 CV
-*You can find my CV in this repository!*
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikitakiselev)](https://github.com/anuraghazra/github-readme-stats)
-
+**You can find my CV in this repository!**
