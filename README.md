@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm a student of FAMCS BSU. Now I try to combine university education with self-study in the machine learning sphere.
-### My skills:
+## My skills:
 ✦ Python<br> • Machine Learning — PyTorch, TensorFlow, Keras, Scikitlearn, CatBoost, XGBoost<br> • Data Analysis — Pandas, NumPy, SciPy<br> • Data Visualization — Matplotlib, Plotly, Seaborn<br> • Jupyter Notebook, Google Colab<br>✦ Mathematics:<br> • Linear algebra<br> • Mathematical analysis<br> • Probability theory<br> • Mathematical statistics<br>✦ PostgreSQL, MySQL, SQLite <br>✦ Git, GitHub, GitLab<br>✦ English (B2)<br>✦ Soft Skills <br> • Communication<br> • Problem Solving<br> • Easy to learn <br> • Stress-resistant<br> • Creative<br>
 
 ## 🌐 Media:
