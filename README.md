@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm a student of FAMCS BSU. Now I try to combine university education with self-study in the machine learning sphere.
 ## My skills:
-✦ Python<br> <pre>• Machine Learning — PyTorch, TensorFlow, Keras, Scikitlearn, CatBoost, XGBoost<br></pre> • Data Analysis — Pandas, NumPy, SciPy<br> • Data Visualization — Matplotlib, Plotly, Seaborn<br> • Jupyter Notebook, Google Colab<br>✦ Mathematics:<br> • Linear algebra<br> • Mathematical analysis<br> • Probability theory<br> • Mathematical statistics<br>✦ PostgreSQL, MySQL, SQLite <br>✦ Git, GitHub, GitLab<br>✦ English (B2)<br>✦ Soft Skills <br> • Communication<br> • Problem Solving<br> • Easy to learn <br> • Stress-resistant<br> • Creative<br>
+✦ Python<br> <pre>• Machine Learning — PyTorch, TensorFlow, Keras, Scikitlearn, CatBoost, XGBoost<br></pre> • Data Analysis — Pandas, NumPy, SciPy<br> • Data Visualization — Matplotlib, Plotly, Seaborn<br> • Jupyter Notebook, Google Colab<br>✦ Mathematics:<br> <li><p>• Linear algebra<br></p></li> • Mathematical analysis<br> • Probability theory<br> • Mathematical statistics<br>✦ PostgreSQL, MySQL, SQLite <br>✦ Git, GitHub, GitLab<br>✦ English (B2)<br>✦ Soft Skills <br> • Communication<br> • Problem Solving<br> • Easy to learn <br> • Stress-resistant<br> • Creative<br>
 
 ## 🌐 Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mikita-kiselev/) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/mikitakiselev)
