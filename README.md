@@ -60,4 +60,4 @@ Hi, I'm a student of FAMCS BSU. Now I try to combine university education with s
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📸 CV
-**You can find my CV in this repository!**
+### You can find my CV in this repository!
