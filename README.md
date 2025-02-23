@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I'm Nikita Kiselev.<br>
+Hello there! 👋 I'm Nikita Kisialeu.<br>
 Currently, I'm delving into the world of machine learning, actively exploring advanced algorithms through online courses. I'm also fascinated by the idea of automating processes and improving life through artificial intelligence. Furthermore, while staying abreast of technological advancements and striving to keep pace with the ever-evolving world of innovation, I actively participate in university life, take pleasure in trying out different sports, and am always open to new opportunities.
 ## My skills:
 <pre>
@@ -25,9 +25,9 @@ Currently, I'm delving into the world of machine learning, actively exploring ad
 </pre>
 
 ## 🌐 Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikita-kiselev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkisialeu/) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/mikitakiselev)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:nikitakiselev557@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:nkisialeu@gmail.com)
 
 ## 💼 Core Specializations
 - Data Preprocessing and Transformation
