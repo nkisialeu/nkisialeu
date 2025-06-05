@@ -17,12 +17,6 @@ Winner of the GameStream (LESTA GAMES) Hackathon 🏅
 ✦ PostgreSQL, MySQL, SQLite
 ✦ Git, GitHub, GitLab
 ✦ English (B2)
-✦ Soft Skills
-  • Communication
-  • Problem Solving
-  • Easy to learn
-  • Stress-resistant
-  • Creative<br> 
 </pre>
 
 ## 🌐 Media:
